@@ -1,5 +1,8 @@
 # Blackjack
 
+//In this assignment I watched a reference video created by Youtube user name cornerserenader in 2010.
+Link is https://www.youtube.com/watch?v=xfNzUaOOY6w&list=PL-OugP_AfIPGxpTUi2otXwvVTut0b5Ui6&index=1
+
 Objective:
 We want to create a one player game of Blackjack. Where the user plays against the computer. Effectively use loops, conditionals, and other control structures to implement control flows. Demonstrate usage of data structures to model resources.
 
